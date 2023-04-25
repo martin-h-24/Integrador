@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.fondoc {
+   background-color: #333;
+}
+
+.tamaño {
+    width: 80px;
+    height: 40px;
+    margin-left: 50px;
+}
+
+
+.blanco { font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: left;
+}
+
+
+.claro {
+    color:white;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.letras {
+    text-align: right;
+    padding: 0;
+    font-size: 16px;
+    height: 60px;
+}
+
+.fondo {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/ba1.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+   
+    background-size: cover;
+}
+
+.t {
+    color: white;
+    text-align: right;
+    padding: 20% 10% 15% 40%;
+    
+}
+
+.enlinea {
+    display: inline;
+}
+
+.relleno {
+    margin: 2px 2px 40px 2px;
+    box-sizing: border-box;
+}
+
+.enmedio1 {
+    text-align: center;
+    color: gray;
+}
+
+.enmedio2 {
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 10px;
+    
+}
+
+.flex-container div {
+    background-color: white;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 16px;
+    font-size: 20px;
+    border: 1px solid gray;
+}
+
+
+
+.oscuro {
+    background-color: black;
+    background-size: cover;
+    color: white;
+}
+
+.bl {
+    text-align: center;
+    color: white;
+}
+
+.green {
+    background-color:  	rgb(107, 142, 35)
+}
+
+.az {
+    background-color: #094293;
+}
