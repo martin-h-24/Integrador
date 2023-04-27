@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+html {
+    font-size: 16px;
+}
+
 
 .fondoc {
    background-color: #333;
@@ -17,6 +21,18 @@
 .blanco { font-family: Arial, Helvetica, sans-serif;
     color: white;
     text-align: left;
+}
+
+p {
+    font-size: 1rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+h4 {
+    font-size: 2rem;
 }
 
 
