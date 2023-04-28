@@ -6,7 +6,6 @@ html {
     font-size: 16px;
 }
 
-
 .fondoc {
    background-color: #333;
 }
@@ -14,7 +13,7 @@ html {
 .tamaño {
     width: 80px;
     height: 40px;
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
 
@@ -37,7 +36,8 @@ h4 {
 
 
 .claro {
-    color:white;
+    color:#f9f9f9;
+    text-align: end;
 }
 
 .clearfix {
@@ -55,15 +55,21 @@ h4 {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/ba1.jpg);
     height: 100vh;
     background-repeat: no-repeat;
-   
     background-size: cover;
 }
 
 .t {
     color: white;
     text-align: right;
-    padding: 20% 10% 15% 40%;
-    
+    padding: 20% 10% 15% 30%;
+}
+
+.estilo {
+    margin-right: 0px;
+}
+
+.estilo1 {
+    padding: 0px;
 }
 
 .enlinea {
