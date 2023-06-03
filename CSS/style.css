@@ -2,6 +2,7 @@
     box-sizing: border-box;
 }
 
+
 html {
     font-size: 16px;
 }
@@ -13,7 +14,7 @@ html {
 .tamaño {
     width: 80px;
     height: 40px;
-    margin-left: 40px;
+    margin-left: 50px;
 }
 
 
@@ -34,12 +35,6 @@ h4 {
     font-size: 2rem;
 }
 
-
-.claro {
-    color:#f9f9f9;
-    text-align: end;
-}
-
 .clearfix {
     overflow: auto;
 }
@@ -55,21 +50,15 @@ h4 {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/ba1.jpg);
     height: 100vh;
     background-repeat: no-repeat;
+   
     background-size: cover;
 }
 
 .t {
     color: white;
     text-align: right;
-    padding: 20% 10% 15% 30%;
-}
-
-.estilo {
-    margin-right: 0px;
-}
-
-.estilo1 {
-    padding: 0px;
+    padding: 20% 10% 15% 40%;
+    
 }
 
 .enlinea {
@@ -100,7 +89,7 @@ h4 {
     
 }
 
-.flex-container div {
+.centrado {
     background-color: white;
     width: 200px;
     margin: 10px;
@@ -125,6 +114,45 @@ h4 {
 
 .green {
     background-color:  	rgb(107, 142, 35)
+}
+
+.centrado1 {
+    background-color: white;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 16px;
+    font-size: 20px;
+    border: 1px solid #69a0ec;
+}
+
+.centrado2 {
+    background-color: white;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 16px;
+    font-size: 20px;
+    border: 1px solid lightskyblue;
+}
+
+.centrado3 {
+    background-color: white;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 16px;
+    font-size: 20px;
+    border: 1px solid orange;
+}
+
+.transparencia {
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.fondoc1 {
+    background-color: #86b4f3;
 }
 
 .az {
