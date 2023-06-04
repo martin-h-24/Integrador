@@ -1,7 +1,4 @@
 const laCantidad = document.getElementById("laCantidad");
-// const catEstudiante = document.getElementById("catEstudiante");
-// const catTrainee = document.getElementById("catTrainee");
-// const catJunior = document.getElementById("catJunior");
 const categoria = document.getElementById("categoria");
 const totalCompras = document.getElementById("totalCompras");
 const deNuevo = document.getElementById("deNuevo");
